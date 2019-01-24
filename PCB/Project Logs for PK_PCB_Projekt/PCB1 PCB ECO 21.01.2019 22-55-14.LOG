@@ -1,0 +1,88 @@
+Change Component Designator: OldDesignator=K1 NewDesignator=K2
+Change Component Designator: OldDesignator=K2 NewDesignator=K3
+Change Component Designator: OldDesignator=K3 NewDesignator=K4
+Change Component Designator: OldDesignator=K4 NewDesignator=K5
+Change Component Designator: OldDesignator=K5 NewDesignator=K6
+Change Component Designator: OldDesignator=K6 NewDesignator=K7
+Change Component Designator: OldDesignator=K7 NewDesignator=K8
+Change Component Designator: OldDesignator=K8 NewDesignator=K1
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Change Component Designator: OldDesignator=P3 NewDesignator=P4
+Change Component Designator: OldDesignator=P4 NewDesignator=P5
+Change Component Designator: OldDesignator=P5 NewDesignator=P6
+Change Component Designator: OldDesignator=P6 NewDesignator=P7
+Change Component Designator: OldDesignator=P7 NewDesignator=P8
+Change Component Designator: OldDesignator=P8 NewDesignator=P1
+Change component parameters: Designator = "C9"; Footprint = "PNSC-FK-V-F_V"; UniqueID = "\HISJVMCX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "470µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "O8x10.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "03/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "0.16O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifetime@Temperature"; Value = "2000Hrs@105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp-Max"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp Range"; Value = "-55to+105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Electrolytic Aluminum Capacitor, Body 8.3 x 8.3 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "FK-V-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/DME0000COL48.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "600mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "FK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Can"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13"; Footprint = "PNSC-FK-V-F_V"; UniqueID = "\PKNDHQJP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "470µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Size/Dimension"; Value = "O8x10.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "03/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Impedance"; Value = "0.16O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifetime@Temperature"; Value = "2000Hrs@105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp-Max"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temp Range"; Value = "-55to+105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Electrolytic Aluminum Capacitor, Body 8.3 x 8.3 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "FK-V-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/DME0000COL48.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "600mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "FK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Can"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetK1_1 New Net Name=NetK2_1
+Change Net Name : Old Net Name=NetK1_2 New Net Name=NetK2_2
+Change Net Name : Old Net Name=NetK1_3 New Net Name=NetK2_3
+Change Net Name : Old Net Name=NetK1_4 New Net Name=NetK2_4
+Change Net Name : Old Net Name=NetK2_1 New Net Name=NetK3_1
+Change Net Name : Old Net Name=NetK2_2 New Net Name=NetK3_2
+Change Net Name : Old Net Name=NetK2_3 New Net Name=NetK3_3
+Change Net Name : Old Net Name=NetK2_4 New Net Name=NetK3_4
+Change Net Name : Old Net Name=NetK3_1 New Net Name=NetK4_1
+Change Net Name : Old Net Name=NetK3_2 New Net Name=NetK4_2
+Change Net Name : Old Net Name=NetK3_3 New Net Name=NetK4_3
+Change Net Name : Old Net Name=NetK3_4 New Net Name=NetK4_4
+Change Net Name : Old Net Name=NetK4_1 New Net Name=NetK5_1
+Change Net Name : Old Net Name=NetK4_2 New Net Name=NetK5_2
+Change Net Name : Old Net Name=NetK4_3 New Net Name=NetK5_3
+Change Net Name : Old Net Name=NetK4_4 New Net Name=NetK5_4
+Change Net Name : Old Net Name=NetK5_1 New Net Name=NetK6_1
+Change Net Name : Old Net Name=NetK5_2 New Net Name=NetK6_2
+Change Net Name : Old Net Name=NetK5_3 New Net Name=NetK6_3
+Change Net Name : Old Net Name=NetK5_4 New Net Name=NetK6_4
+Change Net Name : Old Net Name=NetK6_1 New Net Name=NetK7_1
+Change Net Name : Old Net Name=NetK6_2 New Net Name=NetK7_2
+Change Net Name : Old Net Name=NetK6_3 New Net Name=NetK7_3
+Change Net Name : Old Net Name=NetK6_4 New Net Name=NetK7_4
+Change Net Name : Old Net Name=NetK7_1 New Net Name=NetK8_1
+Change Net Name : Old Net Name=NetK7_2 New Net Name=NetK8_2
+Change Net Name : Old Net Name=NetK7_3 New Net Name=NetK8_3
+Change Net Name : Old Net Name=NetK8_1 New Net Name=NetK1_1
+Change Net Name : Old Net Name=NetK8_2 New Net Name=NetK1_2
+Change Net Name : Old Net Name=NetK8_3 New Net Name=NetK1_3
+Added Room: Name=atmega_darlington_diodes
+Added Room: Name=ethernet_zasilanie
